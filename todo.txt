@@ -1,0 +1,12 @@
+//async function scrapTeamsLinks(page, link)
+//Essa função abre a página de cada partida. 
+//Aqui dá pra pegar as últimas partidas sem entrar em cada página de cada time.
+//Trocar o nome dessa função para getDataBTTS
+//Acessar ${link}/#/h2h/overall
+//Clicar em "show more matches" 1x para abrir mais partidas.
+//total = 0; btts = 0; 
+//if ((home_score > 0) & (away_score > 0)) then btts++;
+//total++;
+//return [btts, total]
+
+//A função atualmente com nome getDataBTTS, trocar para outro nome e guardar.

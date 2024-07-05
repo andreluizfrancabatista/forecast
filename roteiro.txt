@@ -1,0 +1,12 @@
+- Pegar a lista de jogos de amanhã ou agendados de hoje
+- Pegar o link da partida
+- Pegar o link de cada time (casa e visitante)
+
+Filtros
+- BTTS
+
+- Gol HT
+
+- Over 1.5
+
+- Over 2.5

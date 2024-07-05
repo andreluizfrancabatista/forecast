@@ -1,0 +1,9 @@
+jogo = {
+    'Date':[],'Time':[],'Country':[],'League':[],'Home':[],'Away':[],
+    'golshtHome':[], 'totalHome':[], 'AvgHome':[], 
+    'golshtAway':[], 'totalAway':[], 'AvgAway':[], 
+    'pHome':[], 'pAway':[], 'pSum':[], 'odd':[]
+}
+
+
+05HT: porcentagem de 05HT das últimas 10 partidas de cada time. ODD do 05HT, se houver, nem sempre tem.

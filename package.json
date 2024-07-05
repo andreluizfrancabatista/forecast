@@ -1,0 +1,23 @@
+{
+  "name": "forecast",
+  "version": "1.0.0",
+  "description": "Forecast Soccer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreluizfrancabatista/forecast.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreluizfrancabatista/forecast/issues"
+  },
+  "homepage": "https://github.com/andreluizfrancabatista/forecast#readme",
+  "dependencies": {
+    "puppeteer": "^22.12.1"
+  }
+}
